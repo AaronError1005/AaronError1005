@@ -1,5 +1,6 @@
 ### Hi there 👋
-I am Aaron Francioli, a student at Monroe Community College. I am currently aiming to get a bachelor's degree in computer science.
+I am Aaron Francioli, a student at Rochester Institute of Technology. I am currently aiming to get a bachelor's degree in cybersecurity, with
+an Associate's degree from Monroe Community College. 
 - 📫 How to reach me: Email=ajfran2004@gmail.com Phone number +1 (716) 251-8141
 - 😄 Pronouns: He/Him
 <!--
